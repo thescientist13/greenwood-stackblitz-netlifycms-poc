@@ -1,0 +1,13 @@
+{
+  "name": "greenwood-stackblitz-netlifycms-poc",
+  "repository": "https://github.com/thescientist13/greenwood-stackblitz-netlifycms-poc",
+  "author": "Owen Buckley <owen@thegreenhouse.io>",
+  "license": "MIT",
+  "scripts": {
+    "build": "greenwood build",
+    "develop": "greenwood develop"
+  },
+  "devDependencies": {
+    "@greenwood/cli": "^0.13.0"
+  }
+}
